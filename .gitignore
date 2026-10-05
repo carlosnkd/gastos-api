@@ -1,0 +1,20 @@
+# Secrets
+.env
+credentials.json
+
+# Entorno virtual
+gastos-api/
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
